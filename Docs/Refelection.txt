@@ -1,0 +1,68 @@
+﻿Namn: [Ditt namn]
+
+# Inlämningsrapport
+
+Information
+OBS!!! Ändra absolut inte på rubrikerna i denna fil!!!!
+
+## Inledning
+
+### Hur uppfattade du uppgiften initialt?
+
+It was my first time doing a project and I was excited to see how it would turn out.
+But the i made to many mistakes and had to almost start over multiple times, so that part sucked.
+but still think it was an a really intresting way to learn how to plan and right the code in a clean manner.
+--- Skriv ovanför och ta inte bort denna raden ---
+
+## Planering och genomförande
+
+att first i didnt plan att all, so that was the first mistake i made. 
+and thats the main reasson i had to star over few times. after failing the second time, i used marmaid to fix a diagram.
+it was hard to know where to start first (which folder is first) cuz no matter all i did alf of the screen was red so i though im doing it wrong.
+
+### Vilka steg tog du för att lösa uppgiften?
+
+i started with folders, the 2 main ones Icarfactory and Motorcycle ones,
+then i went for the main program which was a mistake, so i got help from marmaid
+but chatgbt also maid it easyer to make my code look nice and more readable.
+the first code i wrote was complete chaos, was extremly hard to find stuff or read.
+
+--- Skriv ovanför och ta inte bort denna raden ---
+
+## Utmaningar och lösningar
+
+### Vilka utmaningar stötte du på under projektet?
+
+In the 3rd code i wrote i missed an entier folder T_T and didnt realiesd it till i came to school and one my classmates.
+couldnt plan the coding progress. this part was the most deficolt cuz i didnt know were to start.
+and mostly made stupied mistakes which i didnt even reals like forgeting to use ";" att the end.
+
+--- Skriv ovanför och ta inte bort denna raden ---
+
+### Hur löste du dessa utmaningar?
+
+asked other students, coplite, chatgbt, had to make new codes 2twice and got it right att the 3rd time.
+learned how to plan a ahead of time.
+
+--- Skriv ovanför och ta inte bort denna raden ---
+
+### Beskriv några implementeringsval du gjort?
+
+i used List as a data structure, thought it was smart.
+
+--- Skriv ovanför och ta inte bort denna raden ---
+
+## Reflektion och utvärdering
+
+### Vad lärde du dig genom att genomföra projektet?
+i wrote everthing alread it the text above but here is a summery:
+to plan ahead of time so i know where to biegin, 
+trust my self i thought im screwing upp to many time even thought nothing was wrong
+i learned how to useful copilot is and leared how to fully use it 
+learned how to make my code orgenized and make the look nice and readable
+
+--- Skriv ovanför och ta inte bort denna raden ---
+
+### Vilka möjligheter ser du för framtida projekt baserat på denna erfarenhet?
+I know i can make an entier factory and write cool cods 
+--- Skriv ovanför och ta inte bort denna raden ---

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "YH Inlämning 2 Car factory": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
